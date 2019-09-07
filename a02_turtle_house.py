@@ -24,6 +24,7 @@ wn.bgcolor('#DDDDDD')       # Sets background to gray
 shape = turtle.Turtle()
 shape.hideturtle()
 
+
 # Make the roof
 shape.color('red')
 shape.begin_fill()          # Tells Python to fill the shape with a color when done
